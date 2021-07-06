@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything You want to know**
 
-- 📫 How to reach me **ganewatthakavishka@gmail.com**
+<!-- - 📫 How to reach me **ganewatthakavishka@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

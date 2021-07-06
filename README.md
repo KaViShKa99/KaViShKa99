@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KaViShKa99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Kavishka Ganewattha</h1>
 <h3 align="center">SE Undergraduate 🎓 | Web Developer 💻| Mobile Developer ☕ | UI/UX</h3>
 
@@ -12,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishka99" alt="kavishka99" /></a> </p>
 
 - 🌱 I’m currently learning **Angular , Springs**
+
+- 💬 Ask me about **Anything You want to know**
+
+- 📫 How to reach me **ganewatthakavishka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishka99&show_icons=true&locale=en" alt="kavishka99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka99&" alt="kavishka99" /></p>
-

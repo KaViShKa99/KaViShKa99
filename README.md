@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka99&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka99" /> </p>
 
-- 🌱 I’m currently learning **Angular , Springs**
+<!-- - 🌱 I’m currently learning **Angular , Springs** -->
 
 - 💬 Ask me about **Anything You want to know**
 
